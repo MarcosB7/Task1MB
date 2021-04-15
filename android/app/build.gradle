@@ -132,7 +132,7 @@ android {
     }
 
     defaultConfig {
-        applicationId 'com.proyectodonaciones.Task1'
+        applicationId 'com.proyectodonaciones.task1mb'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
